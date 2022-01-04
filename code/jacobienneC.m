@@ -1,0 +1,6 @@
+function [y] = jacobienneC(x)
+%JACOBIENNEC Summary of this function goes here
+%   Detailed explanation goes here
+y=[1;0;1]';
+end
+
